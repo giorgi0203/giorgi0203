@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+<h2> Hi, I'm Giorgi <img src="https://github.githubassets.com/images/mona-whisper.gif" width="50"></h2>
 
-<!--
-**giorgi0203/giorgi0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p float="left">
+  <a href="https://octodex.github.com/"><img src="https://octodex.github.com/images/ironcat.jpg" width="320" height="320" alt="daft sebass"> </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="left">
+  <a href="https://octodex.github.com/"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320" alt="daft sebass"> </a>
+  <a href="https://octodex.github.com/"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320" alt="daft sebass"> </a>
+</p>
+
+
+<div>
+<!--   <a href="https://twitter.com/giorgi_0203">
+    <img src="https://img.shields.io/twitter/follow/svanboxel?style=social" />
+  </a> -->
+<!--   <a href="https://www.linkedin.com/in/sebassvanboxel/">
+    <img src="https://img.shields.io/badge/-sebassvanboxel-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a> -->
+</div>
+
+</div>
